@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("webapck tuts")})();
+(()=>{"use strict";console.log("webapck tuts"),console.log("webapck tuts1dafsd"),console.log("abcdefghijklmnopqrstuvwxyz")})();
